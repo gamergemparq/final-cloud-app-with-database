@@ -28,6 +28,7 @@ DEBUG = True
 
 # <HINT> add your cloud host here
 ALLOWED_HOSTS = [
+    'localhost',
     'final-cloud-app-with-database.herokuapp.com',
 ]
 
